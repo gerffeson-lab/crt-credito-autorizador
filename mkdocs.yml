@@ -1,0 +1,5 @@
+site_name: Documentação do serviço
+nav:
+  - Início: index.md
+plugins:
+  - techdocs-core
